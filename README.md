@@ -1,4 +1,4 @@
-````markdown
+
 # Patient Care Plan Assistant
 
 A web application built with Flask and Google’s Gemini API to extract, analyze, and update patient care plans from PDF uploads and free-text feedback. It auto-detects emergency symptoms, sends urgent alerts, and generates attractively formatted daily care plans using LLM-powered suggestions.
